@@ -1,7 +1,3 @@
-<h4 align="center">Soy fundador y arquitecto de backend con experiencia en diseñar sistemas escalables que responden a necesidades reales de negocio.<br>Establezco estándares técnicos y procesos de calidad para garantizar la estabilidad y evolución ordenada de la infraestructura.<br>Transformo requisitos complejos en soluciones claras y mantenibles, favoreciendo la colaboración efectiva del equipo.</h4>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
   <img width="12" />
@@ -28,7 +24,13 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/sneydder-navarro-07215228b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
 </div>
+
+###
+
+<h4 align="center">Soy fundador y arquitecto de backend con experiencia en diseñar sistemas escalables que responden a necesidades reales de negocio.<br>Establezco estándares técnicos y procesos de calidad para garantizar la estabilidad y evolución ordenada de la infraestructura.<br>Transformo requisitos complejos en soluciones claras y mantenibles, favoreciendo la colaboración efectiva del equipo.</h4>
 
 ###
